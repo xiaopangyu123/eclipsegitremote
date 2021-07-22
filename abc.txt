@@ -1,5 +1,5 @@
 hello world
-hello world hello master,hot-fix
+hello world hello master
 hello world
 hello world
 hello world
@@ -16,8 +16,6 @@ hello world
 hello world
 hello world
 hello world master
-hello world hot-fix
 hot-fix
 123456789
 111
-master
